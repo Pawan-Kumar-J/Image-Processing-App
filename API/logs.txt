@@ -1,0 +1,12 @@
+2022-12-07 14:01:56,139 — werkzeug — INFO — _log:224 —  * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.10.5:5000 (Press CTRL+C to quit))
+2022-12-07 14:03:27,156 — werkzeug — INFO — _log:224 —  * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.10.5:5000 (Press CTRL+C to quit))
+2022-12-07 14:08:52,266 — werkzeug — INFO — _log:224 —  * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.10.5:5000 (Press CTRL+C to quit))
